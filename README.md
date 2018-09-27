@@ -8,4 +8,4 @@ Contains a basic sketch of a tree and a house made with JavaScript's p5 library.
 
 
 ### How to run
-Download or clone the repository and open index.html with your browser and watch the magic happen :)
+Download or clone the repository and open index.html with your browser and watch the magic happen~
